@@ -5,17 +5,19 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/ouassimboutalliss/facialreconstruction_homeproject:v2 #-----change
-  tag: none  #--change
+  repository: ghcr.io/ouassimboutalliss/facialreconstruction_homeproject #-----change
+  tag: v2  #--change
   pullPolicy: always #--change
 
-imagePullSecrets: []
+imagePullSecrets: [
+  
+]
 nameOverride: ""
 fullnameOverride: ""
 
 service:
   type: ClusterIP
-  port: 8000  #change
+  port: 80  #change
  
 
 resources: {}
