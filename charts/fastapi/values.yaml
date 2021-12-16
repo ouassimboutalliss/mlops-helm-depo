@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/ouassimboutalliss/facialreconstruction_homeproject #-----change
-  tag: v2  #--change
+  repository: ghcr.io/ouassimboutalliss/facialreconstruction_homeproject:v2 #-----change
+  tag: none  #--change
   pullPolicy: always #--change
 
 imagePullSecrets: []
