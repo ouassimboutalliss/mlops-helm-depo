@@ -596,4 +596,20 @@ entries:
     urls:
     - https://github.com/ouassimboutalliss/mlops-helm-depo/releases/download/fastapiproject-1.0.0/fastapiproject-1.0.0.tgz
     version: 1.0.0
+  fastapiproject1:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-12-16T17:04:13.587634116Z"
+    description: A Helm chart for Kubernetes
+    digest: cfc4d4c01d084fd6722b30730101b7df9aae5bfcd442e6305897b5c568636156
+    home: https://helm.sh/helm
+    maintainers:
+    - email: dontcontactme@howest.be
+      name: Boutalliss Ouassim
+    name: fastapiproject1
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/ouassimboutalliss/mlops-helm-depo/releases/download/fastapiproject1-1.0.0/fastapiproject1-1.0.0.tgz
+    version: 1.0.0
 generated: "2019-12-08T02:57:21.985425597Z"
