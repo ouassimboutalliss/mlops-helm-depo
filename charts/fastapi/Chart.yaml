@@ -5,7 +5,7 @@ home: https://helm.sh/helm
 maintainers:
   - email: dontcontactme@howest.be
     name: Boutalliss Ouassim
-name: fastapi
+name: fastapiProject
 sources:
   - https://github.com/helm/helm
 version: 1.0.0

@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/ouassimboutalliss/01-fastapi #-----change
-  tag: latest  #--change
+  repository: ghcr.io/ouassimboutalliss/facialreconstruction_homeproject #-----change
+  tag: v2  #--change
   pullPolicy: always #--change
 
 imagePullSecrets: []
