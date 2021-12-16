@@ -15,7 +15,7 @@ fullnameOverride: ""
 
 service:
   type: ClusterIP
-  port: 80  #change
+  port: 8000  #change
  
 
 resources: {}
